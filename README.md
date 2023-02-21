@@ -1,6 +1,6 @@
 # PhisingDetection
 
-Intermship - M Rizal Supriadi
+Penulis - M Rizal Supriadi
 
 # Sinopsis
 
